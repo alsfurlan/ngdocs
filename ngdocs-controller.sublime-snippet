@@ -1,16 +1,12 @@
 <snippet>
 	<content><![CDATA[
 /**
-	* @ngdoc object
-	* @name ${1:ngapp}.controller:${2:NewCtrl}
-	* @description $3
-	* @requires $4
-	* @requires $5
-	* @requires $6
+	* @ngdoc controller
+	* @name ${1:module}.controller:${2:NameController}
+	* @description ${3:description}
+	* @requires ${4:dependency}
 **/
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ngdocs-controller</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<scope>source.js</scope>
 </snippet>
