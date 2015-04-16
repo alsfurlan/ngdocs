@@ -3,10 +3,10 @@
 /**
     * @ngdoc method
     * @name ${1:module}.${2:controller}#${3:method}
-    * @methodOf ${1:module}.${2:controller}
-    * @description ${3:description}
-    * @param {${4:type}} ${5:parameter} ${6:description}
-    * @returns {string} ${7:return}
+    * @methodOf ${1:module}.controller:${2:controller}
+    * @description ${4:description}
+    * @param {${5:type}} ${6:parameter} ${7:description}
+    * @returns {${9:type}} ${10:return}
 **/
 ]]></content>
 	<tabTrigger>ngdocs-method-controller</tabTrigger>
